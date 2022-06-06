@@ -1,0 +1,1 @@
+finding that one number from an array of 100 numbers(with values ranging from 1 to 99) which is duplicate
